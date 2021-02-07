@@ -56,7 +56,7 @@ If the provided .ptx files for CUDA in MATLAB is not functional, please compile 
 
 >f: Circle\_Square: dt = 10 ps; ~1 m scale, need to use larger reconstruction grid size.
 
->g: video: dt = 10 ps, the dynamic imaging at video rate (50 frames here after 4 times decimation).
+>g: video: dt = 10 ps, the dynamic imaging at video rate (50 frames here after 2 times decimation).
 
 **Note 1:**
 
